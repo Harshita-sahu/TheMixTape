@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Shalimar&display=swap');
+body{
+    background-color: aliceblue;
+}
+.cassette{
+    height: 244px;
+    width: 369px;
+    position: absolute;
+    left: 499px;
+    bottom: 513px;
+}
+.girl{
+    position: absolute;
+    right:33px;
+    margin-top: -200px;
+}
+
+.container{
+    margin: 45px;
+}
+
+h2{
+    font-family: 'Shalimar';
+    font-size: 5.625rem;
+    color: darkturquoise;
+    /* text-decoration: underline; */
+}
+p{
+    font-family: 'Shalimar';
+    font-size: 2.625rem;
+    color: darkturquoise;
+    line-height: 5rem;
+}
